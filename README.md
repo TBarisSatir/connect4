@@ -46,7 +46,8 @@ All moves are recorded in hamle.txt.
                  
                  
 Player X's turn. Which column would you like to place your token (1-9)? 5
-Files
+```
+## Files
 
 game.py → The main game script
 
